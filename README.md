@@ -10,5 +10,5 @@ Lorsqu'un client demande l'accès à une ressource, le serveur renvoie alors les
 De plus, la particularité du protocole wrdo est qu'il permet à l'utilisateur de créer un abonnement à une ressources. Ainsi, le client sera notifié à chaque fois que la ressource est modifiée par un autre utilisateur.
 
 Le projet est déceloppé en C++.  
-La librairie nlohmann a été utilisée pour la lecture des fichiers json.
-Des ressources exemples sont disponibles dans le dossier "ressources" côté client
+La librairie nlohmann a été utilisée pour la lecture des fichiers json.  
+Des ressources exemples sont disponibles dans le dossier "ressources" côté client.
