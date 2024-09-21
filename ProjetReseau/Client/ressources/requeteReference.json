@@ -1,0 +1,11 @@
+{
+        "fName": "testfName",
+        "lName": "testlName",
+        "courses": [
+            "$rdo://127.0.0.1:8888/test",
+            {
+                "code": "6gin101-11",
+                "time": "soir"
+            }
+        ]
+    }

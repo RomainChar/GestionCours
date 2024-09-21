@@ -1,0 +1,17 @@
+{
+    "protocol": "rdo",
+    "operation": "POST",
+    "data" : 
+        {"fName": "testfName",
+        "lName": "testlName",
+        "courses": [
+                {"code": "6gen723-03",
+                "time": "jour"
+                },
+                {"code": "6gin101-11",
+                "time": "soir"
+                }
+            ]
+        }
+}
+    
